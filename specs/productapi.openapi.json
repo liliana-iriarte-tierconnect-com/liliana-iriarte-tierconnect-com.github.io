@@ -2,7 +2,7 @@
     "openapi": "3.0.1",
     "info": {
         "title": "Product API - Business API",
-        "description": "Useful API to get a product information - Mojix Inc",
+        "description": "Useful API to get a product information - Mojix Inc 2022",
         "version": "1.0",
         "x:thumbnail": "https://www.mediaplace.us/wp-content/uploads/2018/08/Barnes-Noble-logo.png"
     },
