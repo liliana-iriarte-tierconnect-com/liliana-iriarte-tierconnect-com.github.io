@@ -14,7 +14,7 @@
     "paths": {
         "/books": {
             "get": {
-                "summary": "Get all books information",
+                "summary": "Get all store books information",
                 "description": "Get all books",
                 "operationId": "get-all-books",
                 "responses": {
