@@ -193,7 +193,7 @@
         ],
         "responses": {
           "200": {
-            "description": "OK"
+            "description": "ID Deleted"
           },
           "400": {
              "description": "Invalid ID"
