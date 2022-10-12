@@ -126,6 +126,8 @@
         "tags": [
           "Pick List"
         ],
+        "summary":"Get information about a specific picking list",
+        "description":"Get information about a specific picking list",
         "parameters": [
           {
             "name": "id",
