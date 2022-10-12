@@ -178,6 +178,8 @@
         "tags": [
           "Pick List"
         ],
+        "summary":"Delete a specific pick list",
+        "description":"Delete a specific pick list based on a given id.",
         "parameters": [
           {
             "name": "id",
