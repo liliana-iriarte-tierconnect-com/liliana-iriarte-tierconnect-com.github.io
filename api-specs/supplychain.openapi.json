@@ -48,6 +48,8 @@
         "tags": [
           "Pick List"
         ],
+        "summary": "Search the picking list information",
+        "description": "Search the information of different picking lists based on criteria"
         "parameters": [
           {
             "name": "format",
