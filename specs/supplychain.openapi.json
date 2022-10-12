@@ -1,13 +1,18 @@
 {
   "openapi": "3.0.3",
   "info": {
-    "title": "Mojix ytem API",
+    "title": "Mojix ytem API Sample",
     "description": "This is an example of the Supply Chain Business API",
     "contact": {
       "name": "Mojix, Inc.",
       "url": "https://mojix.com",
       "email": "support@mojix.com"
     },
+     "servers": [
+      {
+          "url": "https://server-name/"
+      }
+  ],
     "license": {
       "name": "Apache 2.0",
       "url": "https://www.apache.org/licenses/LICENSE-2.0.html"
@@ -18,11 +23,6 @@
     {
       "JWT": []
     }
-  ],
-  "servers": [
-      {
-          "url": "https://server-name/"
-      }
   ],
   "tags": [
     {
