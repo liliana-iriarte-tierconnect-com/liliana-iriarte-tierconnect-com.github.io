@@ -179,7 +179,7 @@
           "Pick List"
         ],
         "summary":"Delete a specific pick list",
-        "description":"Delete a specific pick list based on a given id.",
+        "description":"",
         "parameters": [
           {
             "name": "id",
@@ -194,6 +194,9 @@
         "responses": {
           "200": {
             "description": "OK"
+          },
+          "400": {
+             "description": "Invalid ID"
           }
         }
       }
