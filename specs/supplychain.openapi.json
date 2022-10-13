@@ -1,8 +1,8 @@
 {
   "openapi": "3.0.3",
   "info": {
-    "title": "Mojix ytem API Sample",
-    "description": "This is an example of the Supply Chain Business API",
+    "title": "Picking API",
+    "description": "The purpose of the Picking API is to enable validations and set default values for each subprocess for stock management. This is applied in the Picking module of the ytemtm application. ",
     "contact": {
       "name": "Mojix, Inc.",
       "url": "https://mojix.com",
