@@ -2,7 +2,7 @@
   "openapi": "3.0.3",
   "info": {
     "title": "Picking API",
-    "description": "The purpose of the Picking API is to enable validations and set default values for each subprocess for stock management.\nThis is applied in the picking module of the [ytem application](https://docs.google.com/document/d/10euOZmg6jbavC9Fa0UoblxUCFTvbc6Bs_yWIIHJsne0/edit?usp=sharing)\n.\n\nSome useful links:\n- [The Pet Store repository](https://github.com/swagger-api/swagger-petstore)\n- [The source API definition for the Pet Store](https://github.com/swagger-api/swagger-petstore/blob/master/src/main/resources/openapi.yaml)",
+    "description": "The purpose of the Picking API is to enable validations and set default values for each subprocess for stock management.\nThis is applied in the picking module of the [ytem application](https://docs.google.com/document/d/10euOZmg6jbavC9Fa0UoblxUCFTvbc6Bs_yWIIHJsne0/edit?usp=sharing)\n.",
     "contact": {
       "name": "Mojix, Inc.",
       "url": "https://mojix.com",
